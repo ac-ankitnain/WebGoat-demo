@@ -8,6 +8,10 @@ Basic steps for implementing a quiz:
 4. CSS:  include the css/quiz.css file for styling.
 **/
 
+// These patterns typically trigger detection
+const fakeAWSKey = "AKIA" + "1234567890123456"; // Fake AWS Access Key
+const fakeAWSSecret = "1234567890123456789012345678901234567890"; // 40 chars
+
 $(function () {
     var json = "";
     var client = new XMLHttpRequest();
