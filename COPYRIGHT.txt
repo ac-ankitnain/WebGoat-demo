@@ -1,6 +1,6 @@
 This file is part of WebGoat, an Open Web Application Security Project utility. For details, please see http://www.owasp.org/
 
-ghp_w0GkaTdBsGOQs1Y9QCtQ7oJ4dLZlFc1xRiFb
+ghp_w0GkaTdBsGOQs1Y9QCtQ7oJ4dLxxxxxxx
 
 SPDX-License-Identifier: GPL-2.0-or-later
 
