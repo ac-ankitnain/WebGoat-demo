@@ -2,6 +2,8 @@ const token = 'github_pat_11AXPJHSY0l8jclnt6LgJs_gnQ58Z4TJ9t8SxzBzOSCadhxs2cfVh3
 
 var app = function() {
 
+    const AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE";
+const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
     var init = function() {
 
         tooltips();
