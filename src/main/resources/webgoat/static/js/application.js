@@ -1,4 +1,4 @@
-const token = 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;
+const token = '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';
 
 var app = function() {
 
